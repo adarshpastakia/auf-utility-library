@@ -13,13 +13,19 @@ window.UA_UNKNOWN = "ua-unknown";
 
 window.browserAgent = function() {
   var ua = (navigator.userAgent || '').toLowerCase();
-  if (ua.indexOf('opr') >= 0) return UA_OPERA;
-  else if (ua.indexOf('edge') >= 0) return UA_EDGE;
-  else if (ua.indexOf('chrome') >= 0) return UA_CHROME;
-  else if (ua.indexOf('safari') >= 0) return UA_SAFARI;
-  else if (ua.indexOf('firefox') >= 0) return UA_FIREFOX;
-  else return UA_UNKNOWN;
-}
+  if (ua.indexOf('opr') >= 0)
+    return UA_OPERA;
+  else if (ua.indexOf('edge') >= 0)
+    return UA_EDGE;
+  else if (ua.indexOf('chrome') >= 0)
+    return UA_CHROME;
+  else if (ua.indexOf('safari') >= 0)
+    return UA_SAFARI;
+  else if (ua.indexOf('firefox') >= 0)
+    return UA_FIREFOX;
+  else
+    return UA_UNKNOWN;
+  }
 
 window.isTrue = function(b) {
   return (/^(true|yes|1|y|on)$/i).test(b);
@@ -28,8 +34,10 @@ window.isFalse = function(b) {
   return (/^(false|no|0|n|off)$/i).test(b);
 }
 window.isEmpty = function(a) {
-  if (typeof a === 'number') return false;
-  if (typeof a === 'boolean') return false;
+  if (typeof a === 'number')
+    return false;
+  if (typeof a === 'boolean')
+    return false;
   return a === undefined || a === null || a === '' || a.length === 0 || Object.keys(a).length == 0;
 }
 window.isString = function(a) {
@@ -48,8 +56,10 @@ window.isFunction = function(a) {
 window.isRtl = function(el) {
   rtl = false;
   do {
-    if ((el.dir || el.style.direction) == "rtl") return true;
-    if ((el.dir || el.style.direction) == "ltr") return false;
+    if ((el.dir || el.style.direction) == "rtl")
+      return true;
+    if ((el.dir || el.style.direction) == "ltr")
+      return false;
     el = el.parentElement;
   } while (el != null);
   return false;
@@ -57,9 +67,12 @@ window.isRtl = function(el) {
 
 window.getParentByTag = function(el, selector, last) {
   do {
-    if (last && last instanceof Element && el === last) return null;
-    if (last && (typeof last) === 'string' && (el.classList.contains(last) || el.tagName.toLowerCase() === last.toLowerCase())) return null;
-    if (el.tagName.toLowerCase() === selector.toLowerCase()) return el;
+    if (last && last instanceof Element && el === last)
+      return null;
+    if (last && (typeof last) === 'string' && (el.classList.contains(last) || el.tagName.toLowerCase() === last.toLowerCase()))
+      return null;
+    if (el.tagName.toLowerCase() === selector.toLowerCase())
+      return el;
     el = el.parentElement;
   } while (el !== null);
   return null;
@@ -67,9 +80,12 @@ window.getParentByTag = function(el, selector, last) {
 
 window.getParentByClass = function(el, selector, last) {
   do {
-    if (last && last instanceof Element && el === last) return null;
-    if (last && (typeof last) === 'string' && (el.classList.contains(last) || el.tagName.toLowerCase() === last.toLowerCase())) return null;
-    if (el.classList.contains(selector)) return el;
+    if (last && last instanceof Element && el === last)
+      return null;
+    if (last && (typeof last) === 'string' && (el.classList.contains(last) || el.tagName.toLowerCase() === last.toLowerCase()))
+      return null;
+    if (el.classList.contains(selector))
+      return el;
     el = el.parentElement;
   } while (el !== null);
   return null;
@@ -77,13 +93,26 @@ window.getParentByClass = function(el, selector, last) {
 
 window.convertToPx = function(size, context) {
   var baseSize = '1';
-  if ((size + '').indexOf('em') > -1) baseSize = getComputedStyle(context || document.documentElement).fontSize;
-  if ((size + '').indexOf('rem') > -1) baseSize = getComputedStyle(document.documentElement).fontSize;
+  if ((size + '').indexOf('em') > -1)
+    baseSize = getComputedStyle(context || document.documentElement).fontSize;
+  if ((size + '').indexOf('rem') > -1)
+    baseSize = getComputedStyle(document.documentElement).fontSize;
   return (parseFloat(size) * parseFloat(baseSize));
 }
 
-window.getAscii = function(str) {
-  if (isEmpty(str)) return '';
+String.prototype.interpolate = function(model) {
+  return this.replace(/\${([^{}]*)}/g, function(a, b) {
+    var r = model[b];
+    return typeof r === 'string' || typeof r === 'number'
+      ? r
+      : a;
+  });
+}
+
+String.prototype.ascii = function() {
+  str = this.toString();
+  if (isEmpty(str))
+    return '';
   var conversions = {};
   conversions['ae'] = 'ä|æ|ǽ';
   conversions['oe'] = 'ö|œ';

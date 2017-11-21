@@ -37,7 +37,14 @@ isNumber()
 isDecimal()
 
 // Convert latin character string into ASCII equivalent
-getAscii()
+// String.ascii()
+
+"São Tome".ascii() == 'Sao Tome'
+
+// Interpolate string template
+// String.interpolate(model)
+let tpl = "${firstName} ${lastName}"
+tpl.interpolate({firstName:'Bob', lastName:'Ben'})
 ```
 
 ### Using Countries

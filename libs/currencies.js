@@ -129,6 +129,7 @@ window.Currencies = {
   "SOS": "Somalia Shilling",
   "SPL": "Seborga Luigino",
   "SRD": "Suriname Dollar",
+  "SSP": "South Sudan Pound",
   "STD": "São Tomé and Príncipe Dobra",
   "SVC": "El Salvador Colon",
   "SYP": "Syria Pound",

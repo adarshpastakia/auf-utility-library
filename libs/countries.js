@@ -19,8 +19,8 @@ window.Countries = {
   list: [
     {
       "continent": "Asia",
-      "iso-2": "AF",
-      "iso-3": "AFG",
+      "iso2": "AF",
+      "iso3": "AFG",
       "name": "Afghanistan",
       "fullname": "The Islamic Republic of Afghanistan",
       "capital": "Kabul",
@@ -29,8 +29,8 @@ window.Countries = {
       "phone": "+93"
     }, {
       "continent": "Europe",
-      "iso-2": "AL",
-      "iso-3": "ALB",
+      "iso2": "AL",
+      "iso3": "ALB",
       "name": "Albania",
       "fullname": "The Republic of Albania",
       "capital": "Tirana",
@@ -39,8 +39,8 @@ window.Countries = {
       "phone": "+355"
     }, {
       "continent": "Africa",
-      "iso-2": "DZ",
-      "iso-3": "DZA",
+      "iso2": "DZ",
+      "iso3": "DZA",
       "name": "Algeria",
       "fullname": "The People's Democratic Republic of Algeria",
       "capital": "Algiers",
@@ -49,8 +49,8 @@ window.Countries = {
       "phone": "+213"
     }, {
       "continent": "Oceania",
-      "iso-2": "AS",
-      "iso-3": "ASM",
+      "iso2": "AS",
+      "iso3": "ASM",
       "name": "American Samoa",
       "fullname": "American Samoa",
       "capital": "Pago Pago",
@@ -59,8 +59,8 @@ window.Countries = {
       "phone": "+1684"
     }, {
       "continent": "Europe",
-      "iso-2": "AD",
-      "iso-3": "AND",
+      "iso2": "AD",
+      "iso3": "AND",
       "name": "Andorra",
       "fullname": "The Principality of Andorra",
       "capital": "Andorra la Vella",
@@ -69,8 +69,8 @@ window.Countries = {
       "phone": "+376"
     }, {
       "continent": "Africa",
-      "iso-2": "AO",
-      "iso-3": "AGO",
+      "iso2": "AO",
+      "iso3": "AGO",
       "name": "Angola",
       "fullname": "The Republic of Angola",
       "capital": "Luanda",
@@ -79,8 +79,8 @@ window.Countries = {
       "phone": "+244"
     }, {
       "continent": "North America",
-      "iso-2": "AI",
-      "iso-3": "AIA",
+      "iso2": "AI",
+      "iso3": "AIA",
       "name": "Anguilla",
       "fullname": "Anguilla",
       "capital": "The Valley",
@@ -89,8 +89,8 @@ window.Countries = {
       "phone": "+1264"
     }, {
       "continent": "North America",
-      "iso-2": "AG",
-      "iso-3": "ATG",
+      "iso2": "AG",
+      "iso3": "ATG",
       "name": "Antigua And Barbuda",
       "fullname": "Antigua and Barbuda",
       "capital": "Saint John’s",
@@ -99,8 +99,8 @@ window.Countries = {
       "phone": "+1268"
     }, {
       "continent": "South America",
-      "iso-2": "AR",
-      "iso-3": "ARG",
+      "iso2": "AR",
+      "iso3": "ARG",
       "name": "Argentina",
       "fullname": "The Argentine Republic",
       "capital": "Buenos Aires",
@@ -109,8 +109,8 @@ window.Countries = {
       "phone": "+54"
     }, {
       "continent": "Asia",
-      "iso-2": "AM",
-      "iso-3": "ARM",
+      "iso2": "AM",
+      "iso3": "ARM",
       "name": "Armenia",
       "fullname": "The Republic of Armenia",
       "capital": "Yerevan",
@@ -119,8 +119,8 @@ window.Countries = {
       "phone": "+374"
     }, {
       "continent": "North America",
-      "iso-2": "AW",
-      "iso-3": "ABW",
+      "iso2": "AW",
+      "iso3": "ABW",
       "name": "Aruba",
       "fullname": "Aruba",
       "capital": "Oranjestad",
@@ -129,8 +129,8 @@ window.Countries = {
       "phone": "+297"
     }, {
       "continent": "Oceania",
-      "iso-2": "AU",
-      "iso-3": "AUS",
+      "iso2": "AU",
+      "iso3": "AUS",
       "name": "Australia",
       "fullname": "Australia",
       "capital": "Canberra",
@@ -139,8 +139,8 @@ window.Countries = {
       "phone": "+61"
     }, {
       "continent": "Europe",
-      "iso-2": "AT",
-      "iso-3": "AUT",
+      "iso2": "AT",
+      "iso3": "AUT",
       "name": "Austria",
       "fullname": "The Republic of Austria",
       "capital": "Vienna",
@@ -149,8 +149,8 @@ window.Countries = {
       "phone": "+43"
     }, {
       "continent": "Asia",
-      "iso-2": "AZ",
-      "iso-3": "AZE",
+      "iso2": "AZ",
+      "iso3": "AZE",
       "name": "Azerbaijan",
       "fullname": "The Republic of Azerbaijan",
       "capital": "Baku",
@@ -159,8 +159,8 @@ window.Countries = {
       "phone": "+994"
     }, {
       "continent": "North America",
-      "iso-2": "BS",
-      "iso-3": "BHS",
+      "iso2": "BS",
+      "iso3": "BHS",
       "name": "Bahamas",
       "fullname": "The Commonwealth of the Bahamas",
       "capital": "Nassau",
@@ -169,8 +169,8 @@ window.Countries = {
       "phone": "+1242"
     }, {
       "continent": "Asia",
-      "iso-2": "BH",
-      "iso-3": "BHR",
+      "iso2": "BH",
+      "iso3": "BHR",
       "name": "Bahrain",
       "fullname": "The Kingdom of Bahrain",
       "capital": "Manama",
@@ -179,8 +179,8 @@ window.Countries = {
       "phone": "+973"
     }, {
       "continent": "Asia",
-      "iso-2": "BD",
-      "iso-3": "BGD",
+      "iso2": "BD",
+      "iso3": "BGD",
       "name": "Bangladesh",
       "fullname": "The People's Republic of Bangladesh",
       "capital": "Dhaka",
@@ -189,8 +189,8 @@ window.Countries = {
       "phone": "+880"
     }, {
       "continent": "North America",
-      "iso-2": "BB",
-      "iso-3": "BRB",
+      "iso2": "BB",
+      "iso3": "BRB",
       "name": "Barbados",
       "fullname": "Barbados",
       "capital": "Bridgetown",
@@ -199,8 +199,8 @@ window.Countries = {
       "phone": "+1246"
     }, {
       "continent": "Europe",
-      "iso-2": "BY",
-      "iso-3": "BLR",
+      "iso2": "BY",
+      "iso3": "BLR",
       "name": "Belarus",
       "fullname": "The Republic of Belarus",
       "capital": "Minsk",
@@ -209,8 +209,8 @@ window.Countries = {
       "phone": "+375"
     }, {
       "continent": "Europe",
-      "iso-2": "BE",
-      "iso-3": "BEL",
+      "iso2": "BE",
+      "iso3": "BEL",
       "name": "Belgium",
       "fullname": "The Kingdom of Belgium",
       "capital": "Brussels",
@@ -219,8 +219,8 @@ window.Countries = {
       "phone": "+32"
     }, {
       "continent": "North America",
-      "iso-2": "BZ",
-      "iso-3": "BLZ",
+      "iso2": "BZ",
+      "iso3": "BLZ",
       "name": "Belize",
       "fullname": "Belize",
       "capital": "Belmopan",
@@ -229,8 +229,8 @@ window.Countries = {
       "phone": "+51"
     }, {
       "continent": "Africa",
-      "iso-2": "BJ",
-      "iso-3": "BEN",
+      "iso2": "BJ",
+      "iso3": "BEN",
       "name": "Benin",
       "fullname": "The Republic of Benin",
       "capital": "Porto-novo",
@@ -239,8 +239,8 @@ window.Countries = {
       "phone": "+229"
     }, {
       "continent": "North America",
-      "iso-2": "BM",
-      "iso-3": "BMU",
+      "iso2": "BM",
+      "iso3": "BMU",
       "name": "Bermuda",
       "fullname": "Bermuda",
       "capital": "Hamilton",
@@ -249,8 +249,8 @@ window.Countries = {
       "phone": "+1441"
     }, {
       "continent": "Asia",
-      "iso-2": "BT",
-      "iso-3": "BTN",
+      "iso2": "BT",
+      "iso3": "BTN",
       "name": "Bhutan",
       "fullname": "The Kingdom of Bhutan",
       "capital": "Thimphu",
@@ -259,8 +259,8 @@ window.Countries = {
       "phone": "+975"
     }, {
       "continent": "South America",
-      "iso-2": "BO",
-      "iso-3": "BOL",
+      "iso2": "BO",
+      "iso3": "BOL",
       "name": "Bolivia",
       "fullname": "The Plurinational State of Bolivia",
       "capital": "La Paz",
@@ -269,8 +269,8 @@ window.Countries = {
       "phone": "+591"
     }, {
       "continent": "Europe",
-      "iso-2": "BA",
-      "iso-3": "BIH",
+      "iso2": "BA",
+      "iso3": "BIH",
       "name": "Bosnia And Herzegovina",
       "fullname": "Bosnia and Herzegovina",
       "capital": "Sarajevo",
@@ -279,8 +279,8 @@ window.Countries = {
       "phone": "+387"
     }, {
       "continent": "Africa",
-      "iso-2": "BW",
-      "iso-3": "BWA",
+      "iso2": "BW",
+      "iso3": "BWA",
       "name": "Botswana",
       "fullname": "The Republic of Botswana",
       "capital": "Gaborone",
@@ -289,8 +289,8 @@ window.Countries = {
       "phone": "+267"
     }, {
       "continent": "South America",
-      "iso-2": "BR",
-      "iso-3": "BRA",
+      "iso2": "BR",
+      "iso3": "BRA",
       "name": "Brazil",
       "fullname": "The Federative Republic of Brazil",
       "capital": "Brasilia",
@@ -299,8 +299,8 @@ window.Countries = {
       "phone": "+55"
     }, {
       "continent": "Asia",
-      "iso-2": "BN",
-      "iso-3": "BRN",
+      "iso2": "BN",
+      "iso3": "BRN",
       "name": "Brunei Darussalam",
       "fullname": "Brunei Darussalam",
       "capital": "Bandar Seri Begawan",
@@ -309,8 +309,8 @@ window.Countries = {
       "phone": "+673"
     }, {
       "continent": "Europe",
-      "iso-2": "BG",
-      "iso-3": "BGR",
+      "iso2": "BG",
+      "iso3": "BGR",
       "name": "Bulgaria",
       "fullname": "The Republic of Bulgaria",
       "capital": "Sofia",
@@ -319,8 +319,8 @@ window.Countries = {
       "phone": "+359"
     }, {
       "continent": "Africa",
-      "iso-2": "BF",
-      "iso-3": "BFA",
+      "iso2": "BF",
+      "iso3": "BFA",
       "name": "Burkina Faso",
       "fullname": "Burkina Faso",
       "capital": "Ouagadougou",
@@ -329,8 +329,8 @@ window.Countries = {
       "phone": "+226"
     }, {
       "continent": "Africa",
-      "iso-2": "BI",
-      "iso-3": "BDI",
+      "iso2": "BI",
+      "iso3": "BDI",
       "name": "Burundi",
       "fullname": "The Republic of Burundi",
       "capital": "Bujumbura",
@@ -339,8 +339,8 @@ window.Countries = {
       "phone": "+257"
     }, {
       "continent": "Asia",
-      "iso-2": "KH",
-      "iso-3": "KHM",
+      "iso2": "KH",
+      "iso3": "KHM",
       "name": "Cambodia",
       "fullname": "The Kingdom of Cambodia",
       "capital": "Phnom Penh",
@@ -349,8 +349,8 @@ window.Countries = {
       "phone": "+855"
     }, {
       "continent": "Africa",
-      "iso-2": "CM",
-      "iso-3": "CMR",
+      "iso2": "CM",
+      "iso3": "CMR",
       "name": "Cameroon",
       "fullname": "The Republic of Cameroon",
       "capital": "Yaounde",
@@ -359,8 +359,8 @@ window.Countries = {
       "phone": "+237"
     }, {
       "continent": "North America",
-      "iso-2": "CA",
-      "iso-3": "CAN",
+      "iso2": "CA",
+      "iso3": "CAN",
       "name": "Canada",
       "fullname": "Canada",
       "capital": "Ottawa",
@@ -369,8 +369,8 @@ window.Countries = {
       "phone": "+1"
     }, {
       "continent": "Africa",
-      "iso-2": "CV",
-      "iso-3": "CPV",
+      "iso2": "CV",
+      "iso3": "CPV",
       "name": "Cape Verde",
       "fullname": "Republic of Cabo Verde",
       "capital": "Praia",
@@ -379,8 +379,8 @@ window.Countries = {
       "phone": "+238"
     }, {
       "continent": "North America",
-      "iso-2": "KY",
-      "iso-3": "CYM",
+      "iso2": "KY",
+      "iso3": "CYM",
       "name": "Cayman Islands",
       "fullname": "Cayman Islands",
       "capital": "George Town",
@@ -389,8 +389,8 @@ window.Countries = {
       "phone": "+1345"
     }, {
       "continent": "Africa",
-      "iso-2": "CF",
-      "iso-3": "CAF",
+      "iso2": "CF",
+      "iso3": "CAF",
       "name": "Central African Republic",
       "fullname": "The Central African Republic",
       "capital": "Bangui",
@@ -399,8 +399,8 @@ window.Countries = {
       "phone": "+236"
     }, {
       "continent": "Africa",
-      "iso-2": "TD",
-      "iso-3": "TCD",
+      "iso2": "TD",
+      "iso3": "TCD",
       "name": "Chad",
       "fullname": "The Republic of Chad",
       "capital": "n'Djamena",
@@ -409,8 +409,8 @@ window.Countries = {
       "phone": "+235"
     }, {
       "continent": "South America",
-      "iso-2": "CL",
-      "iso-3": "CHL",
+      "iso2": "CL",
+      "iso3": "CHL",
       "name": "Chile",
       "fullname": "The Republic of Chile",
       "capital": "Santiago",
@@ -419,8 +419,8 @@ window.Countries = {
       "phone": "+56"
     }, {
       "continent": "Asia",
-      "iso-2": "CN",
-      "iso-3": "CHN",
+      "iso2": "CN",
+      "iso3": "CHN",
       "name": "China",
       "fullname": "The People's Republic of China",
       "capital": "Beijing",
@@ -429,8 +429,8 @@ window.Countries = {
       "phone": "+86"
     }, {
       "continent": "South America",
-      "iso-2": "CO",
-      "iso-3": "COL",
+      "iso2": "CO",
+      "iso3": "COL",
       "name": "Colombia",
       "fullname": "The Republic of Colombia",
       "capital": "Bogotá",
@@ -439,8 +439,8 @@ window.Countries = {
       "phone": "+57"
     }, {
       "continent": "Africa",
-      "iso-2": "KM",
-      "iso-3": "COM",
+      "iso2": "KM",
+      "iso3": "COM",
       "name": "Comoros",
       "fullname": "The Union of the Comoros",
       "capital": "Moroni",
@@ -449,8 +449,8 @@ window.Countries = {
       "phone": "+269"
     }, {
       "continent": "Africa",
-      "iso-2": "CG",
-      "iso-3": "COG",
+      "iso2": "CG",
+      "iso3": "COG",
       "name": "Congo",
       "fullname": "The Republic of the Congo",
       "capital": "Brazzaville",
@@ -459,8 +459,8 @@ window.Countries = {
       "phone": "+242"
     }, {
       "continent": "Oceania",
-      "iso-2": "CK",
-      "iso-3": "COK",
+      "iso2": "CK",
+      "iso3": "COK",
       "name": "Cook Islands",
       "fullname": "The Cook Islands",
       "capital": "Avarua",
@@ -469,8 +469,8 @@ window.Countries = {
       "phone": "+682"
     }, {
       "continent": "North America",
-      "iso-2": "CR",
-      "iso-3": "CRI",
+      "iso2": "CR",
+      "iso3": "CRI",
       "name": "Costa Rica",
       "fullname": "The Republic of Costa Rica",
       "capital": "San Jose",
@@ -479,8 +479,8 @@ window.Countries = {
       "phone": "+56"
     }, {
       "continent": "Africa",
-      "iso-2": "CI",
-      "iso-3": "CIV",
+      "iso2": "CI",
+      "iso3": "CIV",
       "name": "Côte D'ivoire",
       "fullname": "The Republic of Côte d'Ivoire",
       "capital": "Yamoussoukro",
@@ -489,8 +489,8 @@ window.Countries = {
       "phone": "+225"
     }, {
       "continent": "Europe",
-      "iso-2": "HR",
-      "iso-3": "HRV",
+      "iso2": "HR",
+      "iso3": "HRV",
       "name": "Croatia",
       "fullname": "The Republic of Croatia",
       "capital": "Zagreb",
@@ -499,8 +499,8 @@ window.Countries = {
       "phone": "+385"
     }, {
       "continent": "North America",
-      "iso-2": "CU",
-      "iso-3": "CUB",
+      "iso2": "CU",
+      "iso3": "CUB",
       "name": "Cuba",
       "fullname": "The Republic of Cuba",
       "capital": "Havana",
@@ -509,8 +509,8 @@ window.Countries = {
       "phone": "+53"
     }, {
       "continent": "Asia",
-      "iso-2": "CY",
-      "iso-3": "CYP",
+      "iso2": "CY",
+      "iso3": "CYP",
       "name": "Cyprus",
       "fullname": "The Republic of Cyprus",
       "capital": "Nicosia",
@@ -519,8 +519,8 @@ window.Countries = {
       "phone": "+357"
     }, {
       "continent": "Europe",
-      "iso-2": "CZ",
-      "iso-3": "CZE",
+      "iso2": "CZ",
+      "iso3": "CZE",
       "name": "Czech Republic",
       "fullname": "The Czech Republic",
       "capital": "Prague",
@@ -529,8 +529,8 @@ window.Countries = {
       "phone": "+420"
     }, {
       "continent": "Europe",
-      "iso-2": "DK",
-      "iso-3": "DNK",
+      "iso2": "DK",
+      "iso3": "DNK",
       "name": "Denmark",
       "fullname": "The Kingdom of Denmark",
       "capital": "Copenhagen",
@@ -539,8 +539,8 @@ window.Countries = {
       "phone": "+45"
     }, {
       "continent": "Africa",
-      "iso-2": "DJ",
-      "iso-3": "DJI",
+      "iso2": "DJ",
+      "iso3": "DJI",
       "name": "Djibouti",
       "fullname": "The Republic of Djibouti",
       "capital": "Djibouti",
@@ -549,8 +549,8 @@ window.Countries = {
       "phone": "+253"
     }, {
       "continent": "North America",
-      "iso-2": "DM",
-      "iso-3": "DMA",
+      "iso2": "DM",
+      "iso3": "DMA",
       "name": "Dominica",
       "fullname": "The Commonwealth of Dominica",
       "capital": "Roseau",
@@ -559,8 +559,8 @@ window.Countries = {
       "phone": "+1767"
     }, {
       "continent": "South America",
-      "iso-2": "DO",
-      "iso-3": "DOM",
+      "iso2": "DO",
+      "iso3": "DOM",
       "name": "Dominican Republic",
       "fullname": "The Dominican Republic",
       "capital": "Santo Domingo",
@@ -569,8 +569,8 @@ window.Countries = {
       "phone": "+1809"
     }, {
       "continent": "Africa",
-      "iso-2": "CD",
-      "iso-3": "COD",
+      "iso2": "CD",
+      "iso3": "COD",
       "name": "DR Congo",
       "fullname": "The Democratic Republic of the Congo",
       "capital": "Kinshasa",
@@ -579,8 +579,8 @@ window.Countries = {
       "phone": "+243"
     }, {
       "continent": "Oceania",
-      "iso-2": "TL",
-      "iso-3": "TLS",
+      "iso2": "TL",
+      "iso3": "TLS",
       "name": "East Timor",
       "fullname": "The Democratic Republic of Timor-Leste",
       "capital": "Dilli",
@@ -589,8 +589,8 @@ window.Countries = {
       "phone": "+670"
     }, {
       "continent": "South America",
-      "iso-2": "EC",
-      "iso-3": "ECU",
+      "iso2": "EC",
+      "iso3": "ECU",
       "name": "Ecuador",
       "fullname": "The Republic of Ecuador",
       "capital": "Quito",
@@ -599,8 +599,8 @@ window.Countries = {
       "phone": "+593"
     }, {
       "continent": "Africa",
-      "iso-2": "EG",
-      "iso-3": "EGY",
+      "iso2": "EG",
+      "iso3": "EGY",
       "name": "Egypt",
       "fullname": "The Arab Republic of Egypt",
       "capital": "Cairo",
@@ -609,8 +609,8 @@ window.Countries = {
       "phone": "+20"
     }, {
       "continent": "North America",
-      "iso-2": "SV",
-      "iso-3": "SLV",
+      "iso2": "SV",
+      "iso3": "SLV",
       "name": "El Salvador",
       "fullname": "The Republic of el Salvador",
       "capital": "San Salvador",
@@ -619,8 +619,8 @@ window.Countries = {
       "phone": "+53"
     }, {
       "continent": "Africa",
-      "iso-2": "GQ",
-      "iso-3": "GNQ",
+      "iso2": "GQ",
+      "iso3": "GNQ",
       "name": "Equatorial Guinea",
       "fullname": "The Republic of Equatorial Guinea",
       "capital": "Malabo",
@@ -629,8 +629,8 @@ window.Countries = {
       "phone": "+240"
     }, {
       "continent": "Africa",
-      "iso-2": "ER",
-      "iso-3": "ERI",
+      "iso2": "ER",
+      "iso3": "ERI",
       "name": "Eritrea",
       "fullname": "The State of Eritrea",
       "capital": "Asmara",
@@ -639,8 +639,8 @@ window.Countries = {
       "phone": "+291"
     }, {
       "continent": "Europe",
-      "iso-2": "EE",
-      "iso-3": "EST",
+      "iso2": "EE",
+      "iso3": "EST",
       "name": "Estonia",
       "fullname": "The Republic of Estonia",
       "capital": "Tallinn",
@@ -649,8 +649,8 @@ window.Countries = {
       "phone": "+372"
     }, {
       "continent": "Africa",
-      "iso-2": "ET",
-      "iso-3": "ETH",
+      "iso2": "ET",
+      "iso3": "ETH",
       "name": "Ethiopia",
       "fullname": "The Federal Democratic Republic of Ethiopia",
       "capital": "Addis Ababa",
@@ -659,8 +659,8 @@ window.Countries = {
       "phone": "+251"
     }, {
       "continent": "Europe",
-      "iso-2": "FO",
-      "iso-3": "FRO",
+      "iso2": "FO",
+      "iso3": "FRO",
       "name": "Faroe Islands",
       "fullname": "Faroe Islands",
       "capital": "Palikir",
@@ -669,8 +669,8 @@ window.Countries = {
       "phone": "+298"
     }, {
       "continent": "Oceania",
-      "iso-2": "FJ",
-      "iso-3": "FJI",
+      "iso2": "FJ",
+      "iso3": "FJI",
       "name": "Fiji",
       "fullname": "The Republic of Fiji",
       "capital": "Suva",
@@ -679,8 +679,8 @@ window.Countries = {
       "phone": "+679"
     }, {
       "continent": "Europe",
-      "iso-2": "FI",
-      "iso-3": "FIN",
+      "iso2": "FI",
+      "iso3": "FIN",
       "name": "Finland",
       "fullname": "The Republic of Finland",
       "capital": "Helsinki",
@@ -689,8 +689,8 @@ window.Countries = {
       "phone": "+358"
     }, {
       "continent": "Europe",
-      "iso-2": "FR",
-      "iso-3": "FRA",
+      "iso2": "FR",
+      "iso3": "FRA",
       "name": "France",
       "fullname": "The French Republic",
       "capital": "Paris",
@@ -699,8 +699,8 @@ window.Countries = {
       "phone": "+33"
     }, {
       "continent": "South America",
-      "iso-2": "GF",
-      "iso-3": "GUF",
+      "iso2": "GF",
+      "iso3": "GUF",
       "name": "French Guyana",
       "fullname": "French Guyana",
       "capital": "Cayenne",
@@ -709,8 +709,8 @@ window.Countries = {
       "phone": "+594"
     }, {
       "continent": "Oceania",
-      "iso-2": "PF",
-      "iso-3": "PYF",
+      "iso2": "PF",
+      "iso3": "PYF",
       "name": "French Polynesia",
       "fullname": "French Polynesia",
       "capital": "Papeete",
@@ -719,8 +719,8 @@ window.Countries = {
       "phone": "+689"
     }, {
       "continent": "Africa",
-      "iso-2": "GA",
-      "iso-3": "GAB",
+      "iso2": "GA",
+      "iso3": "GAB",
       "name": "Gabon",
       "fullname": "The Gabonese Republic",
       "capital": "Libreville",
@@ -729,8 +729,8 @@ window.Countries = {
       "phone": "+241"
     }, {
       "continent": "Africa",
-      "iso-2": "GM",
-      "iso-3": "GMB",
+      "iso2": "GM",
+      "iso3": "GMB",
       "name": "Gambia",
       "fullname": "The Republic of the Gambia",
       "capital": "Banjul",
@@ -739,8 +739,8 @@ window.Countries = {
       "phone": "+220"
     }, {
       "continent": "Europe",
-      "iso-2": "GE",
-      "iso-3": "GEO",
+      "iso2": "GE",
+      "iso3": "GEO",
       "name": "Georgia",
       "fullname": "Georgia",
       "capital": "Tbilisi",
@@ -749,8 +749,8 @@ window.Countries = {
       "phone": "+995"
     }, {
       "continent": "Europe",
-      "iso-2": "DE",
-      "iso-3": "DEU",
+      "iso2": "DE",
+      "iso3": "DEU",
       "name": "Germany",
       "fullname": "The Federal Republic of Germany",
       "capital": "Berlin",
@@ -759,8 +759,8 @@ window.Countries = {
       "phone": "+49"
     }, {
       "continent": "Africa",
-      "iso-2": "GH",
-      "iso-3": "GHA",
+      "iso2": "GH",
+      "iso3": "GHA",
       "name": "Ghana",
       "fullname": "The Republic of Ghana",
       "capital": "Accra",
@@ -769,8 +769,8 @@ window.Countries = {
       "phone": "+233"
     }, {
       "continent": "Africa",
-      "iso-2": "GI",
-      "iso-3": "GIB",
+      "iso2": "GI",
+      "iso3": "GIB",
       "name": "Gibraltar",
       "fullname": "Gibraltar",
       "capital": "Gibraltar",
@@ -779,8 +779,8 @@ window.Countries = {
       "phone": "+350"
     }, {
       "continent": "Europe",
-      "iso-2": "GR",
-      "iso-3": "GRC",
+      "iso2": "GR",
+      "iso3": "GRC",
       "name": "Greece",
       "fullname": "The Hellenic Republic",
       "capital": "Athens",
@@ -789,8 +789,8 @@ window.Countries = {
       "phone": "+30"
     }, {
       "continent": "North America",
-      "iso-2": "GL",
-      "iso-3": "GRL",
+      "iso2": "GL",
+      "iso3": "GRL",
       "name": "Greenland",
       "fullname": "Greenland",
       "capital": "Nuuk",
@@ -799,8 +799,8 @@ window.Countries = {
       "phone": "+299"
     }, {
       "continent": "North America",
-      "iso-2": "GD",
-      "iso-3": "GRD",
+      "iso2": "GD",
+      "iso3": "GRD",
       "name": "Grenada",
       "fullname": "Grenada",
       "capital": "Saint George’s",
@@ -809,8 +809,8 @@ window.Countries = {
       "phone": "+1473"
     }, {
       "continent": "North America",
-      "iso-2": "GP",
-      "iso-3": "GLP",
+      "iso2": "GP",
+      "iso3": "GLP",
       "name": "Guadeloupe",
       "fullname": "Guadeloupe",
       "capital": "Basse-Terre",
@@ -819,8 +819,8 @@ window.Countries = {
       "phone": "+590"
     }, {
       "continent": "Asia",
-      "iso-2": "GU",
-      "iso-3": "GUM",
+      "iso2": "GU",
+      "iso3": "GUM",
       "name": "Guam",
       "fullname": "Guam",
       "capital": "Hagåtña",
@@ -829,8 +829,8 @@ window.Countries = {
       "phone": "+1671"
     }, {
       "continent": "North America",
-      "iso-2": "GT",
-      "iso-3": "GTM",
+      "iso2": "GT",
+      "iso3": "GTM",
       "name": "Guatemala",
       "fullname": "The Republic of Guatemala",
       "capital": "Guatemala City",
@@ -839,8 +839,8 @@ window.Countries = {
       "phone": "+52"
     }, {
       "continent": "Europe",
-      "iso-2": "GG",
-      "iso-3": "GGY",
+      "iso2": "GG",
+      "iso3": "GGY",
       "name": "Guernsey",
       "fullname": "Guernsey",
       "capital": "St. Peter Port",
@@ -849,8 +849,8 @@ window.Countries = {
       "phone": "+44"
     }, {
       "continent": "Africa",
-      "iso-2": "GN",
-      "iso-3": "GIN",
+      "iso2": "GN",
+      "iso3": "GIN",
       "name": "Guinea",
       "fullname": "The Republic of Guinea",
       "capital": "Conakry",
@@ -859,8 +859,8 @@ window.Countries = {
       "phone": "+224"
     }, {
       "continent": "Africa",
-      "iso-2": "GW",
-      "iso-3": "GNB",
+      "iso2": "GW",
+      "iso3": "GNB",
       "name": "Guinea-bissau",
       "fullname": "The Republic of Guinea-bissau",
       "capital": "Bissau",
@@ -869,8 +869,8 @@ window.Countries = {
       "phone": "+245"
     }, {
       "continent": "South America",
-      "iso-2": "GY",
-      "iso-3": "GUY",
+      "iso2": "GY",
+      "iso3": "GUY",
       "name": "Guyana",
       "fullname": "The Republic of Guyana",
       "capital": "Georgetown",
@@ -879,8 +879,8 @@ window.Countries = {
       "phone": "+592"
     }, {
       "continent": "North America",
-      "iso-2": "HT",
-      "iso-3": "HTI",
+      "iso2": "HT",
+      "iso3": "HTI",
       "name": "Haiti",
       "fullname": "The Republic of Haiti",
       "capital": "Port-au-prince",
@@ -889,8 +889,8 @@ window.Countries = {
       "phone": "+59"
     }, {
       "continent": "North America",
-      "iso-2": "HN",
-      "iso-3": "HND",
+      "iso2": "HN",
+      "iso3": "HND",
       "name": "Honduras",
       "fullname": "The Republic of Honduras",
       "capital": "Tegucigalpa",
@@ -899,8 +899,8 @@ window.Countries = {
       "phone": "+54"
     }, {
       "continent": "Asia",
-      "iso-2": "HK",
-      "iso-3": "HKG",
+      "iso2": "HK",
+      "iso3": "HKG",
       "name": "Hong Kong",
       "fullname": "Hong Kong Special Administrative Region of the People's Republic of China",
       "capital": "Hong Kong",
@@ -909,8 +909,8 @@ window.Countries = {
       "phone": "+852"
     }, {
       "continent": "Europe",
-      "iso-2": "HU",
-      "iso-3": "HUN",
+      "iso2": "HU",
+      "iso3": "HUN",
       "name": "Hungary",
       "fullname": "Hungary",
       "capital": "Budapest",
@@ -919,8 +919,8 @@ window.Countries = {
       "phone": "+36"
     }, {
       "continent": "Europe",
-      "iso-2": "IS",
-      "iso-3": "ISL",
+      "iso2": "IS",
+      "iso3": "ISL",
       "name": "Iceland",
       "fullname": "The Republic of Iceland",
       "capital": "Reykjavik",
@@ -929,8 +929,8 @@ window.Countries = {
       "phone": "+354"
     }, {
       "continent": "Asia",
-      "iso-2": "IN",
-      "iso-3": "IND",
+      "iso2": "IN",
+      "iso3": "IND",
       "name": "India",
       "fullname": "The Republic of India",
       "capital": "New Delhi",
@@ -939,8 +939,8 @@ window.Countries = {
       "phone": "+91"
     }, {
       "continent": "Asia",
-      "iso-2": "ID",
-      "iso-3": "IDN",
+      "iso2": "ID",
+      "iso3": "IDN",
       "name": "Indonesia",
       "fullname": "The Republic of Indonesia",
       "capital": "Jakarta",
@@ -949,8 +949,8 @@ window.Countries = {
       "phone": "+62"
     }, {
       "continent": "Asia",
-      "iso-2": "IR",
-      "iso-3": "IRN",
+      "iso2": "IR",
+      "iso3": "IRN",
       "name": "Iran",
       "fullname": "The Islamic Republic of Iran",
       "capital": "Tehran",
@@ -959,8 +959,8 @@ window.Countries = {
       "phone": "+98"
     }, {
       "continent": "Asia",
-      "iso-2": "IQ",
-      "iso-3": "IRQ",
+      "iso2": "IQ",
+      "iso3": "IRQ",
       "name": "Iraq",
       "fullname": "The Republic of Iraq",
       "capital": "Baghdad",
@@ -969,8 +969,8 @@ window.Countries = {
       "phone": "+964"
     }, {
       "continent": "Europe",
-      "iso-2": "IE",
-      "iso-3": "IRL",
+      "iso2": "IE",
+      "iso3": "IRL",
       "name": "Ireland",
       "fullname": "Ireland",
       "capital": "Dublin",
@@ -979,8 +979,8 @@ window.Countries = {
       "phone": "+353"
     }, {
       "continent": "Europe",
-      "iso-2": "IM",
-      "iso-3": "IMN",
+      "iso2": "IM",
+      "iso3": "IMN",
       "name": "Isle Of Man",
       "fullname": "Isle Of Man",
       "capital": "Douglas",
@@ -989,8 +989,8 @@ window.Countries = {
       "phone": "+44"
     }, {
       "continent": "Asia",
-      "iso-2": "IL",
-      "iso-3": "ISR",
+      "iso2": "IL",
+      "iso3": "ISR",
       "name": "Israel",
       "fullname": "The State of Israel",
       "capital": "Jerusalem",
@@ -999,8 +999,8 @@ window.Countries = {
       "phone": "+972"
     }, {
       "continent": "Europe",
-      "iso-2": "IT",
-      "iso-3": "ITA",
+      "iso2": "IT",
+      "iso3": "ITA",
       "name": "Italy",
       "fullname": "The Republic of Italy",
       "capital": "Rome",
@@ -1009,8 +1009,8 @@ window.Countries = {
       "phone": "+39"
     }, {
       "continent": "North America",
-      "iso-2": "JM",
-      "iso-3": "JAM",
+      "iso2": "JM",
+      "iso3": "JAM",
       "name": "Jamaica",
       "fullname": "Jamaica",
       "capital": "Kingston",
@@ -1019,8 +1019,8 @@ window.Countries = {
       "phone": "+1876"
     }, {
       "continent": "Asia",
-      "iso-2": "JP",
-      "iso-3": "JPN",
+      "iso2": "JP",
+      "iso3": "JPN",
       "name": "Japan",
       "fullname": "Japan",
       "capital": "Tokyo",
@@ -1029,8 +1029,8 @@ window.Countries = {
       "phone": "+81"
     }, {
       "continent": "Europe",
-      "iso-2": "JE",
-      "iso-3": "JEY",
+      "iso2": "JE",
+      "iso3": "JEY",
       "name": "Jersey",
       "fullname": "Jersey",
       "capital": "Saint Helier",
@@ -1039,8 +1039,8 @@ window.Countries = {
       "phone": "+44"
     }, {
       "continent": "Asia",
-      "iso-2": "JO",
-      "iso-3": "JOR",
+      "iso2": "JO",
+      "iso3": "JOR",
       "name": "Jordan",
       "fullname": "The Hashemite Kingdom of Jordan",
       "capital": "Amman",
@@ -1049,8 +1049,8 @@ window.Countries = {
       "phone": "+962"
     }, {
       "continent": "Asia",
-      "iso-2": "KZ",
-      "iso-3": "KAZ",
+      "iso2": "KZ",
+      "iso3": "KAZ",
       "name": "Kazakhstan",
       "fullname": "The Republic of Kazakhstan",
       "capital": "Astana",
@@ -1059,8 +1059,8 @@ window.Countries = {
       "phone": "+7"
     }, {
       "continent": "Africa",
-      "iso-2": "KE",
-      "iso-3": "KEN",
+      "iso2": "KE",
+      "iso3": "KEN",
       "name": "Kenya",
       "fullname": "The Republic of Kenya",
       "capital": "Nairobi",
@@ -1069,8 +1069,8 @@ window.Countries = {
       "phone": "+254"
     }, {
       "continent": "Oceania",
-      "iso-2": "KI",
-      "iso-3": "KIR",
+      "iso2": "KI",
+      "iso3": "KIR",
       "name": "Kiribati",
       "fullname": "The Republic of Kiribati",
       "capital": "Tarawa Atoll",
@@ -1079,8 +1079,8 @@ window.Countries = {
       "phone": "+686"
     }, {
       "continent": "Asia",
-      "iso-2": "KW",
-      "iso-3": "KWT",
+      "iso2": "KW",
+      "iso3": "KWT",
       "name": "Kuwait",
       "fullname": "The State of Kuwait",
       "capital": "Kuwait City",
@@ -1089,8 +1089,8 @@ window.Countries = {
       "phone": "+965"
     }, {
       "continent": "Asia",
-      "iso-2": "KG",
-      "iso-3": "KGZ",
+      "iso2": "KG",
+      "iso3": "KGZ",
       "name": "Kyrgyzstan",
       "fullname": "The Kyrgyz Republic",
       "capital": "Bishkek",
@@ -1099,8 +1099,8 @@ window.Countries = {
       "phone": "+996"
     }, {
       "continent": "Asia",
-      "iso-2": "LA",
-      "iso-3": "LAO",
+      "iso2": "LA",
+      "iso3": "LAO",
       "name": "Laos",
       "fullname": "The Lao People's Democratic Republic",
       "capital": "Vientiane",
@@ -1109,8 +1109,8 @@ window.Countries = {
       "phone": "+856"
     }, {
       "continent": "Europe",
-      "iso-2": "LV",
-      "iso-3": "LVA",
+      "iso2": "LV",
+      "iso3": "LVA",
       "name": "Latvia",
       "fullname": "The Republic of Latvia",
       "capital": "Riga",
@@ -1119,8 +1119,8 @@ window.Countries = {
       "phone": "+371"
     }, {
       "continent": "Asia",
-      "iso-2": "LB",
-      "iso-3": "LBN",
+      "iso2": "LB",
+      "iso3": "LBN",
       "name": "Lebanon",
       "fullname": "The Lebanese Republic",
       "capital": "Beirut",
@@ -1129,8 +1129,8 @@ window.Countries = {
       "phone": "+961"
     }, {
       "continent": "Africa",
-      "iso-2": "LS",
-      "iso-3": "LSO",
+      "iso2": "LS",
+      "iso3": "LSO",
       "name": "Lesotho",
       "fullname": "The Kingdom of Lesotho",
       "capital": "Maseru",
@@ -1139,8 +1139,8 @@ window.Countries = {
       "phone": "+266"
     }, {
       "continent": "Africa",
-      "iso-2": "LR",
-      "iso-3": "LBR",
+      "iso2": "LR",
+      "iso3": "LBR",
       "name": "Liberia",
       "fullname": "The Republic of Liberia",
       "capital": "Monrovia",
@@ -1149,8 +1149,8 @@ window.Countries = {
       "phone": "+231"
     }, {
       "continent": "Africa",
-      "iso-2": "LY",
-      "iso-3": "LBY",
+      "iso2": "LY",
+      "iso3": "LBY",
       "name": "Libya",
       "fullname": "Libya",
       "capital": "Tripoli",
@@ -1159,8 +1159,8 @@ window.Countries = {
       "phone": "+218"
     }, {
       "continent": "Europe",
-      "iso-2": "LI",
-      "iso-3": "LIE",
+      "iso2": "LI",
+      "iso3": "LIE",
       "name": "Liechtenstein",
       "fullname": "The Principality of Liechtenstein",
       "capital": "Vaduz",
@@ -1169,8 +1169,8 @@ window.Countries = {
       "phone": "+423"
     }, {
       "continent": "Europe",
-      "iso-2": "LT",
-      "iso-3": "LTU",
+      "iso2": "LT",
+      "iso3": "LTU",
       "name": "Lithuania",
       "fullname": "The Republic of Lithuania",
       "capital": "Vilnius",
@@ -1179,8 +1179,8 @@ window.Countries = {
       "phone": "+370"
     }, {
       "continent": "Europe",
-      "iso-2": "LU",
-      "iso-3": "LUX",
+      "iso2": "LU",
+      "iso3": "LUX",
       "name": "Luxembourg",
       "fullname": "The Grand Duchy of Luxembourg",
       "capital": "Luxembourg",
@@ -1189,8 +1189,8 @@ window.Countries = {
       "phone": "+352"
     }, {
       "continent": "Asia",
-      "iso-2": "MO",
-      "iso-3": "MAC",
+      "iso2": "MO",
+      "iso3": "MAC",
       "name": "Macao",
       "fullname": "Macao Special Administrative Region of the People's Republic of China",
       "capital": "Macao",
@@ -1199,8 +1199,8 @@ window.Countries = {
       "phone": "+853"
     }, {
       "continent": "Europe",
-      "iso-2": "MK",
-      "iso-3": "MKD",
+      "iso2": "MK",
+      "iso3": "MKD",
       "name": "Macedonia",
       "fullname": "The Former Yugoslav Republic of Macedonia",
       "capital": "Skopje",
@@ -1209,8 +1209,8 @@ window.Countries = {
       "phone": "+389"
     }, {
       "continent": "Africa",
-      "iso-2": "MG",
-      "iso-3": "MDG",
+      "iso2": "MG",
+      "iso3": "MDG",
       "name": "Madagascar",
       "fullname": "The Republic of Madagascar",
       "capital": "Antananarivo",
@@ -1219,8 +1219,8 @@ window.Countries = {
       "phone": "+261"
     }, {
       "continent": "Africa",
-      "iso-2": "MW",
-      "iso-3": "MWI",
+      "iso2": "MW",
+      "iso3": "MWI",
       "name": "Malawi",
       "fullname": "The Republic of Malawi",
       "capital": "Lilongwe",
@@ -1229,8 +1229,8 @@ window.Countries = {
       "phone": "+265"
     }, {
       "continent": "Asia",
-      "iso-2": "MY",
-      "iso-3": "MYS",
+      "iso2": "MY",
+      "iso3": "MYS",
       "name": "Malaysia",
       "fullname": "Malaysia",
       "capital": "Kuala Lumpur",
@@ -1239,8 +1239,8 @@ window.Countries = {
       "phone": "+60"
     }, {
       "continent": "Asia",
-      "iso-2": "MV",
-      "iso-3": "MDV",
+      "iso2": "MV",
+      "iso3": "MDV",
       "name": "Maldives",
       "fullname": "The Republic of Maldives",
       "capital": "Male",
@@ -1249,8 +1249,8 @@ window.Countries = {
       "phone": "+960"
     }, {
       "continent": "Africa",
-      "iso-2": "ML",
-      "iso-3": "MLI",
+      "iso2": "ML",
+      "iso3": "MLI",
       "name": "Mali",
       "fullname": "The Republic of Mali",
       "capital": "Bamako",
@@ -1259,8 +1259,8 @@ window.Countries = {
       "phone": "+223"
     }, {
       "continent": "Europe",
-      "iso-2": "MT",
-      "iso-3": "MLT",
+      "iso2": "MT",
+      "iso3": "MLT",
       "name": "Malta",
       "fullname": "The Republic of Malta",
       "capital": "Valletta",
@@ -1269,8 +1269,8 @@ window.Countries = {
       "phone": "+356"
     }, {
       "continent": "Oceania",
-      "iso-2": "MH",
-      "iso-3": "MHL",
+      "iso2": "MH",
+      "iso3": "MHL",
       "name": "Marshall Islands",
       "fullname": "The Republic of the Marshall Islands",
       "capital": "Majuro",
@@ -1279,8 +1279,8 @@ window.Countries = {
       "phone": "+692"
     }, {
       "continent": "North America",
-      "iso-2": "MQ",
-      "iso-3": "MTQ",
+      "iso2": "MQ",
+      "iso3": "MTQ",
       "name": "Martinique",
       "fullname": "Martinique",
       "capital": "Fort-de-France",
@@ -1289,8 +1289,8 @@ window.Countries = {
       "phone": "+596"
     }, {
       "continent": "Africa",
-      "iso-2": "MR",
-      "iso-3": "MRT",
+      "iso2": "MR",
+      "iso3": "MRT",
       "name": "Mauritania",
       "fullname": "The Islamic Republic of Mauritania",
       "capital": "Nouakchott",
@@ -1299,8 +1299,8 @@ window.Countries = {
       "phone": "+222"
     }, {
       "continent": "Africa",
-      "iso-2": "MU",
-      "iso-3": "MUS",
+      "iso2": "MU",
+      "iso3": "MUS",
       "name": "Mauritius",
       "fullname": "The Republic of Mauritius",
       "capital": "Port Louis",
@@ -1309,8 +1309,8 @@ window.Countries = {
       "phone": "+230"
     }, {
       "continent": "Africa",
-      "iso-2": "YT",
-      "iso-3": "MYT",
+      "iso2": "YT",
+      "iso3": "MYT",
       "name": "Mayotte",
       "fullname": "The Department of Mayotte",
       "capital": "Mamoudzou",
@@ -1319,8 +1319,8 @@ window.Countries = {
       "phone": "+269"
     }, {
       "continent": "North America",
-      "iso-2": "MX",
-      "iso-3": "MEX",
+      "iso2": "MX",
+      "iso3": "MEX",
       "name": "Mexico",
       "fullname": "The United Mexican States",
       "capital": "Mexico City",
@@ -1329,8 +1329,8 @@ window.Countries = {
       "phone": "+52"
     }, {
       "continent": "Oceania",
-      "iso-2": "FM",
-      "iso-3": "FSM",
+      "iso2": "FM",
+      "iso3": "FSM",
       "name": "Micronesia",
       "fullname": "The Federated States of Micronesia",
       "capital": "Palikir",
@@ -1339,8 +1339,8 @@ window.Countries = {
       "phone": "+691"
     }, {
       "continent": "Europe",
-      "iso-2": "MD",
-      "iso-3": "MDA",
+      "iso2": "MD",
+      "iso3": "MDA",
       "name": "Moldova",
       "fullname": "The Republic of Moldova",
       "capital": "Chisinau",
@@ -1349,8 +1349,8 @@ window.Countries = {
       "phone": "+373"
     }, {
       "continent": "Europe",
-      "iso-2": "MC",
-      "iso-3": "MCO",
+      "iso2": "MC",
+      "iso3": "MCO",
       "name": "Monaco",
       "fullname": "The Principality of Monaco",
       "capital": "Monaco",
@@ -1359,8 +1359,8 @@ window.Countries = {
       "phone": "+377"
     }, {
       "continent": "Asia",
-      "iso-2": "MN",
-      "iso-3": "MNG",
+      "iso2": "MN",
+      "iso3": "MNG",
       "name": "Mongolia",
       "fullname": "Mongolia",
       "capital": "Ulaanbaatar",
@@ -1369,8 +1369,8 @@ window.Countries = {
       "phone": "+976"
     }, {
       "continent": "Europe",
-      "iso-2": "ME",
-      "iso-3": "MNE",
+      "iso2": "ME",
+      "iso3": "MNE",
       "name": "Montenegro",
       "fullname": "Montenegro",
       "capital": "Podgorica",
@@ -1379,8 +1379,8 @@ window.Countries = {
       "phone": "+382"
     }, {
       "continent": "North America",
-      "iso-2": "MS",
-      "iso-3": "MSR",
+      "iso2": "MS",
+      "iso3": "MSR",
       "name": "Montserrat",
       "fullname": "Montserrat",
       "capital": "Plymouth",
@@ -1389,8 +1389,8 @@ window.Countries = {
       "phone": "+1664"
     }, {
       "continent": "Africa",
-      "iso-2": "MA",
-      "iso-3": "MAR",
+      "iso2": "MA",
+      "iso3": "MAR",
       "name": "Morocco",
       "fullname": "The Kingdom of Morocco",
       "capital": "Rabat",
@@ -1399,8 +1399,8 @@ window.Countries = {
       "phone": "+211"
     }, {
       "continent": "Africa",
-      "iso-2": "MZ",
-      "iso-3": "MOZ",
+      "iso2": "MZ",
+      "iso3": "MOZ",
       "name": "Mozambique",
       "fullname": "The Republic of Mozambique",
       "capital": "Maputo",
@@ -1409,8 +1409,8 @@ window.Countries = {
       "phone": "+258"
     }, {
       "continent": "Asia",
-      "iso-2": "MM",
-      "iso-3": "MMR",
+      "iso2": "MM",
+      "iso3": "MMR",
       "name": "Myanmar",
       "fullname": "The Republic of the Union of Myanmar",
       "capital": "Nypyidaw",
@@ -1419,8 +1419,8 @@ window.Countries = {
       "phone": "+95"
     }, {
       "continent": "Africa",
-      "iso-2": "NA",
-      "iso-3": "NAM",
+      "iso2": "NA",
+      "iso3": "NAM",
       "name": "Namibia",
       "fullname": "The Republic of Namibia",
       "capital": "Windhoek",
@@ -1429,8 +1429,8 @@ window.Countries = {
       "phone": "+264"
     }, {
       "continent": "Oceania",
-      "iso-2": "NR",
-      "iso-3": "NRU",
+      "iso2": "NR",
+      "iso3": "NRU",
       "name": "Nauru",
       "fullname": "The Republic of Nauru",
       "capital": "Yaren District",
@@ -1439,8 +1439,8 @@ window.Countries = {
       "phone": "+674"
     }, {
       "continent": "Asia",
-      "iso-2": "NP",
-      "iso-3": "NPL",
+      "iso2": "NP",
+      "iso3": "NPL",
       "name": "Nepal",
       "fullname": "The Federal Democratic Republic of Nepal",
       "capital": "Kathmandu",
@@ -1449,8 +1449,8 @@ window.Countries = {
       "phone": "+977"
     }, {
       "continent": "Europe",
-      "iso-2": "NL",
-      "iso-3": "NLD",
+      "iso2": "NL",
+      "iso3": "NLD",
       "name": "Netherlands",
       "fullname": "The Kingdom of the Netherlands",
       "capital": "Amsterdam",
@@ -1459,8 +1459,8 @@ window.Countries = {
       "phone": "+31"
     }, {
       "continent": "Oceania",
-      "iso-2": "NZ",
-      "iso-3": "NZL",
+      "iso2": "NZ",
+      "iso3": "NZL",
       "name": "New Zealand",
       "fullname": "New Zealand",
       "capital": "Wellington",
@@ -1469,8 +1469,8 @@ window.Countries = {
       "phone": "+64"
     }, {
       "continent": "North America",
-      "iso-2": "NI",
-      "iso-3": "NIC",
+      "iso2": "NI",
+      "iso3": "NIC",
       "name": "Nicaragua",
       "fullname": "The Republic of Nicaragua",
       "capital": "Managua",
@@ -1479,8 +1479,8 @@ window.Countries = {
       "phone": "+55"
     }, {
       "continent": "Africa",
-      "iso-2": "NE",
-      "iso-3": "NER",
+      "iso2": "NE",
+      "iso3": "NER",
       "name": "Niger",
       "fullname": "The Republic of the Niger",
       "capital": "Niamey",
@@ -1489,8 +1489,8 @@ window.Countries = {
       "phone": "+227"
     }, {
       "continent": "Africa",
-      "iso-2": "NG",
-      "iso-3": "NGA",
+      "iso2": "NG",
+      "iso3": "NGA",
       "name": "Nigeria",
       "fullname": "The Federal Republic of Nigeria",
       "capital": "Abuja",
@@ -1499,8 +1499,8 @@ window.Countries = {
       "phone": "+234"
     }, {
       "continent": "Asia",
-      "iso-2": "KP",
-      "iso-3": "PRK",
+      "iso2": "KP",
+      "iso3": "PRK",
       "name": "North Korea",
       "fullname": "The Democratic People's Republic of Korea",
       "capital": "Pyongyang",
@@ -1509,8 +1509,8 @@ window.Countries = {
       "phone": "+850"
     }, {
       "continent": "Europe",
-      "iso-2": "NO",
-      "iso-3": "NOR",
+      "iso2": "NO",
+      "iso3": "NOR",
       "name": "Norway",
       "fullname": "The Kingdom of Norway",
       "capital": "Oslo",
@@ -1519,8 +1519,8 @@ window.Countries = {
       "phone": "+47"
     }, {
       "continent": "Asia",
-      "iso-2": "OM",
-      "iso-3": "OMN",
+      "iso2": "OM",
+      "iso3": "OMN",
       "name": "Oman",
       "fullname": "The Sultanate of Oman",
       "capital": "Muscat",
@@ -1529,8 +1529,8 @@ window.Countries = {
       "phone": "+968"
     }, {
       "continent": "Asia",
-      "iso-2": "PK",
-      "iso-3": "PAK",
+      "iso2": "PK",
+      "iso3": "PAK",
       "name": "Pakistan",
       "fullname": "The Islamic Republic of Pakistan",
       "capital": "Islamabad",
@@ -1539,8 +1539,8 @@ window.Countries = {
       "phone": "+92"
     }, {
       "continent": "Oceania",
-      "iso-2": "PW",
-      "iso-3": "PLW",
+      "iso2": "PW",
+      "iso3": "PLW",
       "name": "Palau",
       "fullname": "The Republic of Palau",
       "capital": "Ngerulmud",
@@ -1549,8 +1549,8 @@ window.Countries = {
       "phone": "+680"
     }, {
       "continent": "Asia",
-      "iso-2": "PS",
-      "iso-3": "PSE",
+      "iso2": "PS",
+      "iso3": "PSE",
       "name": "Palestine",
       "fullname": "The State of Palestine",
       "capital": "Ramallah",
@@ -1559,8 +1559,8 @@ window.Countries = {
       "phone": "+970"
     }, {
       "continent": "South America",
-      "iso-2": "PA",
-      "iso-3": "PAN",
+      "iso2": "PA",
+      "iso3": "PAN",
       "name": "Panama",
       "fullname": "The Republic of Panama",
       "capital": "Panama City",
@@ -1569,8 +1569,8 @@ window.Countries = {
       "phone": "+57"
     }, {
       "continent": "Oceania",
-      "iso-2": "PG",
-      "iso-3": "PNG",
+      "iso2": "PG",
+      "iso3": "PNG",
       "name": "Papua New Guinea",
       "fullname": "Independent State of Papua New Guinea",
       "capital": "Port Moresby",
@@ -1579,8 +1579,8 @@ window.Countries = {
       "phone": "+675"
     }, {
       "continent": "South America",
-      "iso-2": "PY",
-      "iso-3": "PRY",
+      "iso2": "PY",
+      "iso3": "PRY",
       "name": "Paraguay",
       "fullname": "The Republic of Paraguay",
       "capital": "Asunción",
@@ -1589,8 +1589,8 @@ window.Countries = {
       "phone": "+595"
     }, {
       "continent": "South America",
-      "iso-2": "PE",
-      "iso-3": "PER",
+      "iso2": "PE",
+      "iso3": "PER",
       "name": "Peru",
       "fullname": "The Republic of Peru",
       "capital": "Lima",
@@ -1599,8 +1599,8 @@ window.Countries = {
       "phone": "+51"
     }, {
       "continent": "Asia",
-      "iso-2": "PH",
-      "iso-3": "PHL",
+      "iso2": "PH",
+      "iso3": "PHL",
       "name": "Philippines",
       "fullname": "The Republic of the Philippines",
       "capital": "Manila",
@@ -1609,8 +1609,8 @@ window.Countries = {
       "phone": "+63"
     }, {
       "continent": "Oceania",
-      "iso-2": "PN",
-      "iso-3": "PCN",
+      "iso2": "PN",
+      "iso3": "PCN",
       "name": "Pitcairn",
       "fullname": "Pitcairn",
       "capital": "Adamstown",
@@ -1619,8 +1619,8 @@ window.Countries = {
       "phone": "+649"
     }, {
       "continent": "Europe",
-      "iso-2": "PL",
-      "iso-3": "POL",
+      "iso2": "PL",
+      "iso3": "POL",
       "name": "Poland",
       "fullname": "The Republic of Poland",
       "capital": "Warsaw",
@@ -1629,8 +1629,8 @@ window.Countries = {
       "phone": "+48"
     }, {
       "continent": "Europe",
-      "iso-2": "PT",
-      "iso-3": "PRT",
+      "iso2": "PT",
+      "iso3": "PRT",
       "name": "Portugal",
       "fullname": "The Portuguese Republic",
       "capital": "Lisbon",
@@ -1639,8 +1639,8 @@ window.Countries = {
       "phone": "+351"
     }, {
       "continent": "North America",
-      "iso-2": "PR",
-      "iso-3": "PRI",
+      "iso2": "PR",
+      "iso3": "PRI",
       "name": "Puerto Rico",
       "fullname": "The Commonwealth of Puerto Rico",
       "capital": "San Juan",
@@ -1649,8 +1649,8 @@ window.Countries = {
       "phone": "+1939"
     }, {
       "continent": "Asia",
-      "iso-2": "QA",
-      "iso-3": "QAT",
+      "iso2": "QA",
+      "iso3": "QAT",
       "name": "Qatar",
       "fullname": "The State of Qatar",
       "capital": "Doha",
@@ -1659,8 +1659,8 @@ window.Countries = {
       "phone": "+974"
     }, {
       "continent": "Africa",
-      "iso-2": "RE",
-      "iso-3": "REU",
+      "iso2": "RE",
+      "iso3": "REU",
       "name": "Réunion",
       "fullname": "Réunion",
       "capital": "Saint-Denis",
@@ -1669,8 +1669,8 @@ window.Countries = {
       "phone": "+262"
     }, {
       "continent": "Europe",
-      "iso-2": "RO",
-      "iso-3": "ROU",
+      "iso2": "RO",
+      "iso3": "ROU",
       "name": "Romania",
       "fullname": "Romania",
       "capital": "Bucharest",
@@ -1679,8 +1679,8 @@ window.Countries = {
       "phone": "+40"
     }, {
       "continent": "Asia",
-      "iso-2": "RU",
-      "iso-3": "RUS",
+      "iso2": "RU",
+      "iso3": "RUS",
       "name": "Russia",
       "fullname": "The Russian Federation",
       "capital": "Moscow",
@@ -1689,8 +1689,8 @@ window.Countries = {
       "phone": "+7"
     }, {
       "continent": "Africa",
-      "iso-2": "RW",
-      "iso-3": "RWA",
+      "iso2": "RW",
+      "iso3": "RWA",
       "name": "Rwanda",
       "fullname": "The Republic of Rwanda",
       "capital": "Kigali",
@@ -1699,8 +1699,8 @@ window.Countries = {
       "phone": "+250"
     }, {
       "continent": "Africa",
-      "iso-2": "SH",
-      "iso-3": "SHN",
+      "iso2": "SH",
+      "iso3": "SHN",
       "name": "Saint Helena",
       "fullname": "Saint Helena",
       "capital": "Jamestown",
@@ -1709,8 +1709,8 @@ window.Countries = {
       "phone": "+290"
     }, {
       "continent": "North America",
-      "iso-2": "KN",
-      "iso-3": "KNA",
+      "iso2": "KN",
+      "iso3": "KNA",
       "name": "Saint Kitts And Nevis",
       "fullname": "Saint Kitts and Nevis",
       "capital": "Basseterre",
@@ -1719,8 +1719,8 @@ window.Countries = {
       "phone": "+1869"
     }, {
       "continent": "South America",
-      "iso-2": "LC",
-      "iso-3": "LCA",
+      "iso2": "LC",
+      "iso3": "LCA",
       "name": "Saint Lucia",
       "fullname": "Saint Lucia",
       "capital": "Castries",
@@ -1729,8 +1729,8 @@ window.Countries = {
       "phone": "+1758"
     }, {
       "continent": "North America",
-      "iso-2": "PM",
-      "iso-3": "SPM",
+      "iso2": "PM",
+      "iso3": "SPM",
       "name": "Saint Pierre And Miquelon",
       "fullname": "Saint Pierre And Miquelon",
       "capital": "Saint-Pierre",
@@ -1739,8 +1739,8 @@ window.Countries = {
       "phone": "+508"
     }, {
       "continent": "South America",
-      "iso-2": "VC",
-      "iso-3": "VCT",
+      "iso2": "VC",
+      "iso3": "VCT",
       "name": "Saint Vincent And The Grenadines",
       "fullname": "Saint Vincent and the Grenadines",
       "capital": "Kingstown",
@@ -1749,8 +1749,8 @@ window.Countries = {
       "phone": "+1784"
     }, {
       "continent": "Oceania",
-      "iso-2": "WS",
-      "iso-3": "WSM",
+      "iso2": "WS",
+      "iso3": "WSM",
       "name": "Samoa",
       "fullname": "The Independent State of Samoa",
       "capital": "Apia",
@@ -1759,8 +1759,8 @@ window.Countries = {
       "phone": "+685"
     }, {
       "continent": "Europe",
-      "iso-2": "SM",
-      "iso-3": "SMR",
+      "iso2": "SM",
+      "iso3": "SMR",
       "name": "San Marino",
       "fullname": "The Republic of San Marino",
       "capital": "San Marino",
@@ -1769,8 +1769,8 @@ window.Countries = {
       "phone": "+378"
     }, {
       "continent": "Africa",
-      "iso-2": "ST",
-      "iso-3": "STP",
+      "iso2": "ST",
+      "iso3": "STP",
       "name": "Sao Tome And Principe",
       "fullname": "The Democratic Republic of Sao Tome and Principe",
       "capital": "São Tomé",
@@ -1779,8 +1779,8 @@ window.Countries = {
       "phone": "+239"
     }, {
       "continent": "Asia",
-      "iso-2": "SA",
-      "iso-3": "SAU",
+      "iso2": "SA",
+      "iso3": "SAU",
       "name": "Saudi Arabia",
       "fullname": "The Kingdom of Saudi Arabia",
       "capital": "Riyadh",
@@ -1789,8 +1789,8 @@ window.Countries = {
       "phone": "+966"
     }, {
       "continent": "Africa",
-      "iso-2": "SN",
-      "iso-3": "SEN",
+      "iso2": "SN",
+      "iso3": "SEN",
       "name": "Senegal",
       "fullname": "The Republic of Senegal",
       "capital": "Dakar",
@@ -1799,8 +1799,8 @@ window.Countries = {
       "phone": "+221"
     }, {
       "continent": "Europe",
-      "iso-2": "RS",
-      "iso-3": "SRB",
+      "iso2": "RS",
+      "iso3": "SRB",
       "name": "Serbia",
       "fullname": "The Republic of Serbia",
       "capital": "Belgrade",
@@ -1809,8 +1809,8 @@ window.Countries = {
       "phone": "+381"
     }, {
       "continent": "Africa",
-      "iso-2": "SC",
-      "iso-3": "SYC",
+      "iso2": "SC",
+      "iso3": "SYC",
       "name": "Seychelles",
       "fullname": "The Republic of Seychelles",
       "capital": "Victoria",
@@ -1819,8 +1819,8 @@ window.Countries = {
       "phone": "+248"
     }, {
       "continent": "Africa",
-      "iso-2": "SL",
-      "iso-3": "SLE",
+      "iso2": "SL",
+      "iso3": "SLE",
       "name": "Sierra Leone",
       "fullname": "The Republic of Sierra Leone",
       "capital": "Freetown",
@@ -1829,8 +1829,8 @@ window.Countries = {
       "phone": "+232"
     }, {
       "continent": "Asia",
-      "iso-2": "SG",
-      "iso-3": "SGP",
+      "iso2": "SG",
+      "iso3": "SGP",
       "name": "Singapore",
       "fullname": "The Republic of Singapore",
       "capital": "Singapore",
@@ -1839,8 +1839,8 @@ window.Countries = {
       "phone": "+65"
     }, {
       "continent": "Europe",
-      "iso-2": "SK",
-      "iso-3": "SVK",
+      "iso2": "SK",
+      "iso3": "SVK",
       "name": "Slovakia",
       "fullname": "The Slovak Republic",
       "capital": "Bratislava",
@@ -1849,8 +1849,8 @@ window.Countries = {
       "phone": "+421"
     }, {
       "continent": "Europe",
-      "iso-2": "SI",
-      "iso-3": "SVN",
+      "iso2": "SI",
+      "iso3": "SVN",
       "name": "Slovenia",
       "fullname": "The Republic of Slovenia",
       "capital": "Ljubljana",
@@ -1859,8 +1859,8 @@ window.Countries = {
       "phone": "+386"
     }, {
       "continent": "Oceania",
-      "iso-2": "SB",
-      "iso-3": "SLB",
+      "iso2": "SB",
+      "iso3": "SLB",
       "name": "Solomon Islands",
       "fullname": "Solomon Islands",
       "capital": "Honiara",
@@ -1869,8 +1869,8 @@ window.Countries = {
       "phone": "+677"
     }, {
       "continent": "Africa",
-      "iso-2": "SO",
-      "iso-3": "SOM",
+      "iso2": "SO",
+      "iso3": "SOM",
       "name": "Somalia",
       "fullname": "The Federal Republic of Somalia",
       "capital": "Mogadishu",
@@ -1879,8 +1879,8 @@ window.Countries = {
       "phone": "+252"
     }, {
       "continent": "Africa",
-      "iso-2": "ZA",
-      "iso-3": "ZAF",
+      "iso2": "ZA",
+      "iso3": "ZAF",
       "name": "South Africa",
       "fullname": "The Republic of South Africa",
       "capital": "Pretoria",
@@ -1889,8 +1889,8 @@ window.Countries = {
       "phone": "+27"
     }, {
       "continent": "Asia",
-      "iso-2": "KR",
-      "iso-3": "KOR",
+      "iso2": "KR",
+      "iso3": "KOR",
       "name": "South Korea",
       "fullname": "The Republic of Korea",
       "capital": "Seoul",
@@ -1899,8 +1899,8 @@ window.Countries = {
       "phone": "+82"
     }, {
       "continent": "Africa",
-      "iso-2": "SS",
-      "iso-3": "SSD",
+      "iso2": "SS",
+      "iso3": "SSD",
       "name": "South Sudan",
       "fullname": "The Republic of South Sudan",
       "capital": "Juba",
@@ -1909,8 +1909,8 @@ window.Countries = {
       "phone": "+221"
     }, {
       "continent": "Europe",
-      "iso-2": "ES",
-      "iso-3": "ESP",
+      "iso2": "ES",
+      "iso3": "ESP",
       "name": "Spain",
       "fullname": "The Kingdom of Spain",
       "capital": "Madrid",
@@ -1919,8 +1919,8 @@ window.Countries = {
       "phone": "+34"
     }, {
       "continent": "Asia",
-      "iso-2": "LK",
-      "iso-3": "LKA",
+      "iso2": "LK",
+      "iso3": "LKA",
       "name": "Sri Lanka",
       "fullname": "The Democratic Socialist Republic of Sri Lanka",
       "capital": "Colombo",
@@ -1929,8 +1929,8 @@ window.Countries = {
       "phone": "+94"
     }, {
       "continent": "Africa",
-      "iso-2": "SD",
-      "iso-3": "SDN",
+      "iso2": "SD",
+      "iso3": "SDN",
       "name": "Sudan",
       "fullname": "The Republic of the Sudan",
       "capital": "Khartoum",
@@ -1939,8 +1939,8 @@ window.Countries = {
       "phone": "+249"
     }, {
       "continent": "South America",
-      "iso-2": "SR",
-      "iso-3": "SUR",
+      "iso2": "SR",
+      "iso3": "SUR",
       "name": "Suriname",
       "fullname": "The Republic of Suriname",
       "capital": "Paramaribo",
@@ -1949,8 +1949,8 @@ window.Countries = {
       "phone": "+597"
     }, {
       "continent": "Africa",
-      "iso-2": "SZ",
-      "iso-3": "SWZ",
+      "iso2": "SZ",
+      "iso3": "SWZ",
       "name": "Swaziland",
       "fullname": "The Kingdom of Swaziland",
       "capital": "Mbabane",
@@ -1959,8 +1959,8 @@ window.Countries = {
       "phone": "+268"
     }, {
       "continent": "Europe",
-      "iso-2": "SE",
-      "iso-3": "SWE",
+      "iso2": "SE",
+      "iso3": "SWE",
       "name": "Sweden",
       "fullname": "The Kingdom of Sweden",
       "capital": "Stockholm",
@@ -1969,8 +1969,8 @@ window.Countries = {
       "phone": "+46"
     }, {
       "continent": "Europe",
-      "iso-2": "CH",
-      "iso-3": "CHE",
+      "iso2": "CH",
+      "iso3": "CHE",
       "name": "Switzerland",
       "fullname": "The Swiss Confederation",
       "capital": "Bern",
@@ -1979,8 +1979,8 @@ window.Countries = {
       "phone": "+41"
     }, {
       "continent": "Asia",
-      "iso-2": "SY",
-      "iso-3": "SYR",
+      "iso2": "SY",
+      "iso3": "SYR",
       "name": "Syria",
       "fullname": "The Syrian Arab Republic",
       "capital": "Damascus",
@@ -1989,8 +1989,8 @@ window.Countries = {
       "phone": "+963"
     }, {
       "continent": "Asia",
-      "iso-2": "TW",
-      "iso-3": "TWN",
+      "iso2": "TW",
+      "iso3": "TWN",
       "name": "Taiwan",
       "fullname": "Taiwan",
       "capital": "Taipei",
@@ -1999,8 +1999,8 @@ window.Countries = {
       "phone": "+886"
     }, {
       "continent": "Asia",
-      "iso-2": "TJ",
-      "iso-3": "TJK",
+      "iso2": "TJ",
+      "iso3": "TJK",
       "name": "Tajikistan",
       "fullname": "The Republic of Tajikistan",
       "capital": "Dushanbe",
@@ -2009,8 +2009,8 @@ window.Countries = {
       "phone": "+992"
     }, {
       "continent": "Africa",
-      "iso-2": "TZ",
-      "iso-3": "TZA",
+      "iso2": "TZ",
+      "iso3": "TZA",
       "name": "Tanzania",
       "fullname": "The United Republic of Tanzania",
       "capital": "Dar es Salaam",
@@ -2019,8 +2019,8 @@ window.Countries = {
       "phone": "+255"
     }, {
       "continent": "Asia",
-      "iso-2": "TH",
-      "iso-3": "THA",
+      "iso2": "TH",
+      "iso3": "THA",
       "name": "Thailand",
       "fullname": "The Kingdom of Thailand",
       "capital": "Bangkok",
@@ -2029,8 +2029,8 @@ window.Countries = {
       "phone": "+66"
     }, {
       "continent": "Africa",
-      "iso-2": "TG",
-      "iso-3": "TGO",
+      "iso2": "TG",
+      "iso3": "TGO",
       "name": "Togo",
       "fullname": "The Togolese Republic",
       "capital": "Lomé",
@@ -2039,8 +2039,8 @@ window.Countries = {
       "phone": "+228"
     }, {
       "continent": "Oceania",
-      "iso-2": "TO",
-      "iso-3": "TON",
+      "iso2": "TO",
+      "iso3": "TON",
       "name": "Tonga",
       "fullname": "The Kingdom of Tonga",
       "capital": "Nukuʻalofa",
@@ -2049,8 +2049,8 @@ window.Countries = {
       "phone": "+676"
     }, {
       "continent": "South America",
-      "iso-2": "TT",
-      "iso-3": "TTO",
+      "iso2": "TT",
+      "iso3": "TTO",
       "name": "Trinidad And Tobago",
       "fullname": "The Republic of Trinidad and Tobago",
       "capital": "Port of Spain",
@@ -2059,8 +2059,8 @@ window.Countries = {
       "phone": "+1868"
     }, {
       "continent": "Africa",
-      "iso-2": "TN",
-      "iso-3": "TUN",
+      "iso2": "TN",
+      "iso3": "TUN",
       "name": "Tunisia",
       "fullname": "The Republic of Tunisia",
       "capital": "Tunis",
@@ -2069,8 +2069,8 @@ window.Countries = {
       "phone": "+216"
     }, {
       "continent": "Asia",
-      "iso-2": "TR",
-      "iso-3": "TUR",
+      "iso2": "TR",
+      "iso3": "TUR",
       "name": "Turkey",
       "fullname": "The Republic of Turkey",
       "capital": "Ankara",
@@ -2079,8 +2079,8 @@ window.Countries = {
       "phone": "+90"
     }, {
       "continent": "Asia",
-      "iso-2": "TM",
-      "iso-3": "TKM",
+      "iso2": "TM",
+      "iso3": "TKM",
       "name": "Turkmenistan",
       "fullname": "Turkmenistan",
       "capital": "Ashgabat",
@@ -2089,8 +2089,8 @@ window.Countries = {
       "phone": "+993"
     }, {
       "continent": "Oceania",
-      "iso-2": "TV",
-      "iso-3": "TUV",
+      "iso2": "TV",
+      "iso3": "TUV",
       "name": "Tuvalu",
       "fullname": "Tuvalu",
       "capital": "Funafuti",
@@ -2099,8 +2099,8 @@ window.Countries = {
       "phone": "+688"
     }, {
       "continent": "Africa",
-      "iso-2": "UG",
-      "iso-3": "UGA",
+      "iso2": "UG",
+      "iso3": "UGA",
       "name": "Uganda",
       "fullname": "The Republic of Uganda",
       "capital": "Kampala",
@@ -2109,8 +2109,8 @@ window.Countries = {
       "phone": "+256"
     }, {
       "continent": "Europe",
-      "iso-2": "UA",
-      "iso-3": "UKR",
+      "iso2": "UA",
+      "iso3": "UKR",
       "name": "Ukraine",
       "fullname": "Ukraine",
       "capital": "Kiev",
@@ -2119,8 +2119,8 @@ window.Countries = {
       "phone": "+380"
     }, {
       "continent": "Asia",
-      "iso-2": "AE",
-      "iso-3": "ARE",
+      "iso2": "AE",
+      "iso3": "ARE",
       "name": "United Arab Emirates",
       "fullname": "The United Arab Emirates",
       "capital": "Abu Dhabi",
@@ -2129,8 +2129,8 @@ window.Countries = {
       "phone": "+971"
     }, {
       "continent": "Europe",
-      "iso-2": "GB",
-      "iso-3": "GBR",
+      "iso2": "GB",
+      "iso3": "GBR",
       "name": "United Kingdom",
       "fullname": "The United Kingdom of Great Britain and Northern Ireland",
       "capital": "London",
@@ -2139,8 +2139,8 @@ window.Countries = {
       "phone": "+44"
     }, {
       "continent": "North America",
-      "iso-2": "US",
-      "iso-3": "USA",
+      "iso2": "US",
+      "iso3": "USA",
       "name": "United States",
       "fullname": "The United States of America",
       "capital": "Washington, D.C.",
@@ -2149,8 +2149,8 @@ window.Countries = {
       "phone": "+1"
     }, {
       "continent": "South America",
-      "iso-2": "UY",
-      "iso-3": "URY",
+      "iso2": "UY",
+      "iso3": "URY",
       "name": "Uruguay",
       "fullname": "The Eastern Republic of Uruguay",
       "capital": "Montevideo",
@@ -2159,8 +2159,8 @@ window.Countries = {
       "phone": "+598"
     }, {
       "continent": "Asia",
-      "iso-2": "UZ",
-      "iso-3": "UZB",
+      "iso2": "UZ",
+      "iso3": "UZB",
       "name": "Uzbekistan",
       "fullname": "The Republic of Uzbekistan",
       "capital": "Tashkent",
@@ -2169,8 +2169,8 @@ window.Countries = {
       "phone": "+998"
     }, {
       "continent": "Oceania",
-      "iso-2": "VU",
-      "iso-3": "VUT",
+      "iso2": "VU",
+      "iso3": "VUT",
       "name": "Vanuatu",
       "fullname": "The Republic of Vanuatu",
       "capital": "Port Vila",
@@ -2179,8 +2179,8 @@ window.Countries = {
       "phone": "+678"
     }, {
       "continent": "South America",
-      "iso-2": "VE",
-      "iso-3": "VEN",
+      "iso2": "VE",
+      "iso3": "VEN",
       "name": "Venezuela",
       "fullname": "The Bolivarian Republic of Venezuela",
       "capital": "Caracas",
@@ -2189,8 +2189,8 @@ window.Countries = {
       "phone": "+58"
     }, {
       "continent": "Asia",
-      "iso-2": "VN",
-      "iso-3": "VNM",
+      "iso2": "VN",
+      "iso3": "VNM",
       "name": "Vietnam",
       "fullname": "The Socialist Republic of Viet Nam",
       "capital": "Hanoi",
@@ -2199,8 +2199,8 @@ window.Countries = {
       "phone": "+84"
     }, {
       "continent": "North America",
-      "iso-2": "VG",
-      "iso-3": "VGB",
+      "iso2": "VG",
+      "iso3": "VGB",
       "name": "Virgin Islands, British",
       "fullname": "British Virgin Islands",
       "capital": "Road Town",
@@ -2209,8 +2209,8 @@ window.Countries = {
       "phone": "+1284"
     }, {
       "continent": "South America",
-      "iso-2": "VI",
-      "iso-3": "VIR",
+      "iso2": "VI",
+      "iso3": "VIR",
       "name": "Virgin Islands, US",
       "fullname": "U.S. Virgin Islands",
       "capital": "Charlotte Amalie",
@@ -2219,8 +2219,8 @@ window.Countries = {
       "phone": "+1340"
     }, {
       "continent": "Africa",
-      "iso-2": "EH",
-      "iso-3": "ESH",
+      "iso2": "EH",
+      "iso3": "ESH",
       "name": "Western Sahara",
       "fullname": "Western Sahara",
       "capital": "El-Aaiún",
@@ -2229,8 +2229,8 @@ window.Countries = {
       "phone": ""
     }, {
       "continent": "Asia",
-      "iso-2": "YE",
-      "iso-3": "YEM",
+      "iso2": "YE",
+      "iso3": "YEM",
       "name": "Yemen",
       "fullname": "The Republic of Yemen",
       "capital": "Sana’a",
@@ -2239,8 +2239,8 @@ window.Countries = {
       "phone": "+967"
     }, {
       "continent": "Africa",
-      "iso-2": "ZM",
-      "iso-3": "ZMB",
+      "iso2": "ZM",
+      "iso3": "ZMB",
       "name": "Zambia",
       "fullname": "The Republic of Zambia",
       "capital": "Lusaka",
@@ -2249,8 +2249,8 @@ window.Countries = {
       "phone": "+260"
     }, {
       "continent": "Africa",
-      "iso-2": "ZW",
-      "iso-3": "ZWE",
+      "iso2": "ZW",
+      "iso3": "ZWE",
       "name": "Zimbabwe",
       "fullname": "The Republic of Zimbabwe",
       "capital": "Harare",

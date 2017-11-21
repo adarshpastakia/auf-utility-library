@@ -55,9 +55,11 @@ declare interface ICountryItem {
   iso3: string;
   iso2: string;
   name: string;
+  fullname: string;
+  capital: string;
   tld: string;
   currency: string;
-  phone: number;
+  phone: string;
 }
 
 declare interface ICountry {

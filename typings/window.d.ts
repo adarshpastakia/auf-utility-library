@@ -68,6 +68,11 @@ declare interface ICountry {
   list: Array<ICountry>;
 }
 
+declare interface String {
+  ascii(): string;
+  interpolate(model: any): string;
+}
+
 declare interface Window {
   UA_EDGE;
   UA_OPERA;

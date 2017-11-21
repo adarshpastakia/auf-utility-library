@@ -2120,7 +2120,7 @@ window.Countries = {
     }, {
       "continent": "Asia",
       "iso2": "AE",
-      "iso3": "ARE",
+      "iso3": "UAE",
       "name": "United Arab Emirates",
       "fullname": "The United Arab Emirates",
       "capital": "Abu Dhabi",

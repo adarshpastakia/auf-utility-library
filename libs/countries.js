@@ -993,7 +993,7 @@ window.Countries = {
       "iso3": "ISR",
       "name": "Israel",
       "fullname": "The State of Israel",
-      "capital": "Jerusalem",
+      "capital": "Tel Aviv",
       "tld": ".il",
       "currency": "ILS",
       "phone": "+972"
